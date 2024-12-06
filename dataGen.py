@@ -2,7 +2,7 @@ import os
 import shutil
 import csv
 
-folder_path = os.path.join(os.getcwd(), "dataSet_train")
+folder_path = os.path.join(os.getcwd(), "dataset_train")
 input_folder_path = os.path.join(folder_path, 'input')
 output_folder_path = os.path.join(folder_path, 'output')
 training_folder_path = os.path.join(folder_path, 'training')
