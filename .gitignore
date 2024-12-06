@@ -1,0 +1,6 @@
+*.keras
+dataset/*/**
+dataset_train/*/**
+__pycache__
+.ipynb_checkpoints
+training/*/**
